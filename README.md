@@ -24,12 +24,3 @@ El teclado matricial se escanea constantemente en busca de pulsaciones y liberac
 
 Los botones de subir y bajar rango permiten al usuario desplazar el conjunto de 16 notas MIDI asignadas al teclado matricial, ofreciendo acceso a diferentes partes del espectro musical. El rango actual se muestra en la pantalla OLED.
 
-Propósito y Aplicaciones:
-
-Este controlador MIDI multifuncional está diseñado para ser una herramienta flexible y personalizable para músicos, productores y entusiastas de la música electrónica. Puede utilizarse para:
-
-Controlar parámetros de sintetizadores virtuales y plugins de efectos.
-Disparar samples y loops en DAWs.
-Interpretar melodías y acordes de forma intuitiva.
-Experimentar con nuevas formas de interacción musical.
-Crear una superficie de control personalizada adaptada a las necesidades individuales.
