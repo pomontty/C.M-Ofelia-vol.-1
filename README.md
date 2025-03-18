@@ -1,8 +1,6 @@
 # C.M-Ofelia-vol.-1
 
-¡Claro! Aquí tienes una descripción del proyecto basado en el código y el diagrama esquemático que hemos desarrollado:
 
-Descripción del Proyecto: Controlador MIDI Multifuncional con Arduino Leonardo
 
 Este proyecto consiste en la creación de un controlador MIDI (Interfaz Digital de Instrumentos Musicales) versátil y funcional, basado en la placa Arduino Leonardo. El objetivo es proporcionar una interfaz física para interactuar con software de música digital (DAWs, sintetizadores virtuales, etc.) a través de mensajes MIDI estándar.
 
